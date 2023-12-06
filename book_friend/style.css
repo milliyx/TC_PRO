@@ -1,0 +1,34 @@
+/* Cambiar el background de la página */
+body {
+    /* color de fondo */
+    background-color: #FFE8D6;
+    /* color de texto */
+    color: #fd0000;
+    /* fuente del texto */
+    font-family:'Red Hat Display', sans-serif;
+    /* borde gráfico : ancho estilo color  */
+    border: 30px ridge black;
+}
+
+h1{
+    color: blue;
+}
+
+h3 {
+    color: chocolate;
+}
+
+img {
+    /* width - ancho del objeto y height - altura del objeto */
+    width: 30%;
+}
+
+/* CLASES (class) siempre llevan . antes del nombre */
+.real-books{
+    width: 100px;
+}
+
+.kirby-ancla{
+    width: 300px;
+    border-radius: 10px;
+}
